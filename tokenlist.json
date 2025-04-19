@@ -1,0 +1,19 @@
+{
+  "name": "Galaxy Token List",
+  "timestamp": "2025-04-19T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x0F23556967dE8c2e1d7033Cf6aA5d8Ade7e13034",
+      "name": "Galaxy",
+      "symbol": "GALX",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/FBHBqJm.png"
+    }
+  ]
+}
